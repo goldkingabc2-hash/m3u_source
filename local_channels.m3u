@@ -841,7 +841,7 @@ https://app.ashokadigital.net/app/ce705f4a/index.m3u8
 https://stream.ashokadigital.net/dhanyatv/dhanyatv/index.m3u8
 
 #EXTINF:-1 tvg-name="rv digital tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788536805_RV GIGITAL.png" group-title="Local TV",rv digital tv
-https://rtmp.streamwell.in/hls/rvdigitaltv.m3u8
+https://srt.streamwell.in/hls/rvdigital.m3u8
 
 #EXTINF:-1 tvg-name="Blessing Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750414088_IMG_20250620_153652.jpg" group-title="Local TV",Blessing Tv
 https://mumbai-edge.smartplaytv.in/BlessingTv/index.m3u8
