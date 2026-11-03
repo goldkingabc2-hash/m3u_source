@@ -1,19 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="4250366" tvg-name="Biratnagar Kings vs Janakpur Bolts [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250366_53124_BK_JKB_fc-Web_1793616701848.jpg" group-title="Fancode",Biratnagar Kings vs Janakpur Bolts [English]
-https://in-mc-flive.fancode.com/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/720p.m3u8?hdntl=Expires=1793774390~_GO=Generated~acl=/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_65b_watcho_21c2375a-79eb-4c~Signature=AV7HGj49ETFnna7sO0LgGROYdmMG_8Gfg-qz_74pzIv9Cxk1MpZ3czIJKrJOy5UzKlN4ycNFvtuoxuoJZBV9Y20CfJoI
+#EXTINF:-1 tvg-id="1090551744_ENG" tvg-name="Shakhtar Donetsk vs Sporting CP - MD 4 - 3 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792950924165243_UCL26_MD4_Shakhtar_vs_SportingCP_landscape_thumb.jpg" group-title="SonyLiv",Shakhtar Donetsk vs Sporting CP - MD 4 - 3 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793770160~acl=/*~id=01285156519621550609534557664144~hmac=ab112f66928f7123bba0ddaad0e4c1ac492fad26dd1b7f2660c958843895ab8f
 
-#EXTINF:-1 tvg-id="4248736" tvg-name="Newcastle Jets vs Shanghai Port [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248736_53053_NJ_SHG_fc-web.jpg" group-title="Fancode",Newcastle Jets vs Shanghai Port [English]
-https://in-mc-flive.fancode.com/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/720p.m3u8?hdntl=Expires=1793777417~_GO=Generated~acl=/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7f1_watcho_aaf71c6a-1bfe-4d~Signature=AV7HGj76DlpFRMHRlffnapACgwqxrZ7dojtrbchT7-ThAlwRv0I875YR9MDY7cgt_zbcttI5AhvqxKYn4sv5jsnYq6cD
+#EXTINF:-1 tvg-id="1090551745_ENG" tvg-name="Galatasaray vs VfB Stuttgart - 3 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792951478118378_UCL26_MD4_Galatasaray_vs_VfB_Stuttgart_landscape_thumb.jpg" group-title="SonyLiv",Galatasaray vs VfB Stuttgart - 3 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793770160~acl=/*~id=01285156519621550609534557664144~hmac=ab112f66928f7123bba0ddaad0e4c1ac492fad26dd1b7f2660c958843895ab8f
 
-#EXTINF:-1 tvg-id="4248737" tvg-name="Jeonbuk Motors vs Johor Darul Ta'zim [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248737_53053_JNB_JDT_fc-web.jpg" group-title="Fancode",Jeonbuk Motors vs Johor Darul Ta'zim [English]
-https://in-mc-flive.fancode.com/mumbai/4248737_english_hls_9807c908ca75444_1ta-di_h264/720p.m3u8?hdntl=Expires=1793785892~_GO=Generated~acl=/mumbai/4248737_english_hls_9807c908ca75444_1ta-di_h264/*~SessionID=fc-app_sportsguruand_4b5_watcho_7f29c6d0-87d9-41~Signature=AV7HGj6ScypELF_92_z6PfAwd_bPUIcmKBpFaajTX4cIdAjHqtDbMRJJQUi5-2uiF0G-ozVpSyIuWOvH5KUqHWKXwR0D
+#EXTINF:-1 tvg-id="4250503" tvg-name="Dubai vs Ajman [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250487_53130_AJM_DUB_fc-web_1792412929315.jpg" group-title="Fancode",Dubai vs Ajman [English]
+https://in-mc-flive.fancode.com/mumbai/4250503_english_hls_4296eb262d14134_1ta-di_h264/720p.m3u8?hdntl=Expires=1793808958~_GO=Generated~acl=/mumbai/4250503_english_hls_4296eb262d14134_1ta-di_h264/*~SessionID=fc-app_sportsguruand_523_watcho_d939890e-7eba-4d~Signature=AV7HGj72fIrXoycmi8t140a6qNoNU393zEHUuDcVkt05NF2FzC9_MmWIEQtljRIrRt8zZgtkazetH9pvE277KOYnkdYD
 
-#EXTINF:-1 tvg-id="4248738" tvg-name="Vissel Kobe vs Ratchaburi [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248738_53053_VIS_RAT_fc-web.jpg" group-title="Fancode",Vissel Kobe vs Ratchaburi [English]
-https://in-mc-flive.fancode.com/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/720p.m3u8?hdntl=Expires=1793785894~_GO=Generated~acl=/mumbai/4248738_english_hls_b33098290730441_1ta-di_h264/*~SessionID=fc-app_sportsguruand_182_watcho_58043639-d7d1-41~Signature=AV7HGj7po1J73Y57TiS_8Mu0lpjzV05cWLUbBVyzEtQx8T7DNNLJpgP2ZM4V5XafT03oiokdsxc5OedyQy1ji8oNIh0C
+#EXTINF:-1 tvg-id="4250204" tvg-name="England Lions vs West Indies A [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png" group-title="Fancode",England Lions vs West Indies A [English]
+https://in-mc-flive.fancode.com/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/720p.m3u8?hdntl=Expires=1793810776~_GO=Generated~acl=/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b07_watcho_7ea9c1d7-5dce-4b~Signature=AV7HGj5ZM-2Q-qFDl91AmU39lbftcVmOQRET7agSkZbxAGFKBdCt_Ra0zwydIUyHd7K8H2UWlwZ3bx9xKq9_4JfYQOAO
 
-#EXTINF:-1 tvg-id="4248739" tvg-name="Kashiwa Reysol vs Daejeon Hana Citizen FC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248739_53053_REY_DAC_fc-web.jpg" group-title="Fancode",Kashiwa Reysol vs Daejeon Hana Citizen FC [English]
-https://in-mc-flive.fancode.com/mumbai/4248739_english_hls_d42be6862981210_1ta-di_h264/720p.m3u8?hdntl=Expires=1793785895~_GO=Generated~acl=/mumbai/4248739_english_hls_d42be6862981210_1ta-di_h264/*~SessionID=fc-app_sportsguruand_66e_watcho_bb8aea6b-5898-4f~Signature=AV7HGj5r8MNWYuTzq3hKIcxd9B6mOhQGCYQvBuFVg-wsTln2_hBxVaECmTxPSttLCLPaMkIud6hXgIey3IMI48Qh7gcM
+#EXTINF:-1 tvg-id="4248734" tvg-name="Esteghlal FC vs Al Shamal [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248734_53053_ESG_ALS_fc-web.jpg" group-title="Fancode",Esteghlal FC vs Al Shamal [English]
+https://in-mc-flive.fancode.com/mumbai/4248734_english_hls_265e50076317332_1ta-di_h264/720p.m3u8?hdntl=Expires=1793807138~_GO=Generated~acl=/mumbai/4248734_english_hls_265e50076317332_1ta-di_h264/*~SessionID=fc-app_sportsguruand_799_watcho_bce6664e-cc01-49~Signature=AV7HGj7SH91eclb-6hHsAXr6r8Zi9hCkQYPTwJMnG5nYWblO8EYkMRYj-s_fFtg4QzyGCSs5Y7enLlJL3tFu3u1uunQK
+
+#EXTINF:-1 tvg-id="4249008" tvg-name="Al Hussein vs Al Shorta [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249008_53057_HUS_SHR_fc-web_1789025065496.jpg" group-title="Fancode",Al Hussein vs Al Shorta [English]
+https://in-mc-flive.fancode.com/mumbai/4249008_english_hls_aac996ce7227954_1ta-di_h264/720p.m3u8?hdntl=Expires=1793807139~_GO=Generated~acl=/mumbai/4249008_english_hls_aac996ce7227954_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3ef_watcho_e60b905c-be7e-42~Signature=AV7HGj6XufIs3Yf9Ql_ZRCshCXSmBT9OISk17fhmgr8Vr1_OEEbV3gsKWlw3y-_5nl_0DkgFzVC6W1ii7RF1a44hIHQA
 
 #EXTINF:-1 tvg-id="4250551" tvg-name="Court 1 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 1 [English]
 https://in-mc-flive.fancode.com/mumbai/4250551_english_hls_f43aad1fa760894_1ta-di_h264/720p.m3u8?hdntl=Expires=1793785896~_GO=Generated~acl=/mumbai/4250551_english_hls_f43aad1fa760894_1ta-di_h264/*~SessionID=fc-app_sportsguruand_6a5_watcho_af817ac4-a1c0-48~Signature=AV7HGj4iPn1hndZ1OjiQXO4yRKyA-5dU-UbBO6e0jiacD9jbtkGYjXlJ75oufzgmy7nAgmtqoeXLrbUp--RZN61zzdcH
@@ -24,57 +27,102 @@ https://in-mc-flive.fancode.com/mumbai/4250552_english_hls_0f67fd0f6498945_1ta-d
 #EXTINF:-1 tvg-id="4250554" tvg-name="Court 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 2 [English]
 https://in-mc-flive.fancode.com/mumbai/4250554_english_hls_6b1499b9d656750_1ta-di_h264/720p.m3u8?hdntl=Expires=1793785898~_GO=Generated~acl=/mumbai/4250554_english_hls_6b1499b9d656750_1ta-di_h264/*~SessionID=fc-app_sportsguruand_46c_watcho_3770539b-a8b5-40~Signature=AV7HGj583UGaw_fzDOHxnIZLE8Lq46Pxku0bkVgbFsj70rwov_uE36lv8BoOTq-mioV6J1_2ou9OwS-_9Laq4sPnwn8C
 
+#EXTINF:-1 tvg-id="4250553" tvg-name="Court 3 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court 3 [English]
+https://in-mc-flive.fancode.com/mumbai/4250553_english_hls_e6a17d4feb56039_1ta-di_h264/720p.m3u8?hdntl=Expires=1793789537~_GO=Generated~acl=/mumbai/4250553_english_hls_e6a17d4feb56039_1ta-di_h264/*~SessionID=fc-app_sportsguruand_654_watcho_b0e6c0e3-bece-44~Signature=AV7HGj7O9efCaeni2PGTwjhGdPhdLw1GrqziAum9Kz-6RMMXGvJZlsG3dQOieSiy5-QPGM6Z4U0L14ZJ0m7OJMBTdAoE
+
+#EXTINF:-1 tvg-id="4250649" tvg-name="Court Central [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode",Court Central [English]
+https://in-mc-flive.fancode.com/mumbai/4250649_english_hls_8afb1495eb66255_1ta-di_h264/720p.m3u8?hdntl=Expires=1793789538~_GO=Generated~acl=/mumbai/4250649_english_hls_8afb1495eb66255_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9dc_watcho_1878a835-58c6-4d~Signature=AV7HGj4dsB3NikKPzADXcEOdz47Vth_YipC9hWm1ln6N_fRx_SG8r6q60hTcmgFQkDaRBiuzalswmOoTtDrrLWTkAQ4H
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Hotstar",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
-#EXTINF:-1 tvg-id="B0HN3X9VQZ" tvg-name="Tennis Today Live-Hong Kong-WTA & Chennai-WTA-Live Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b5d9b993-dc82-453c-af0a-adadb157c03d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video",Tennis Today Live-Hong Kong-WTA & Chennai-WTA-Live Early Rounds
+#EXTINF:-1 tvg-id="B0HPH3DGBW" tvg-name="ECHL Hockey: Cincinnati Cyclones vs Indy Fuel" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a0c125dd-ac56-4593-acff-442bee65257c/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video",ECHL Hockey: Cincinnati Cyclones vs Indy Fuel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HKZ9RM9L" tvg-name="PPA Tour: World Championships-World Championships, Round of 64" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5ce77a33-d5d0-4634-ad1e-1ea4efce0396/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video",PPA Tour: World Championships-World Championships, Round of 64
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HN4P31ZX" tvg-name="Tennis Today Live-Paris-ATP & Chennai-WTA Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.80d5455b-886e-4f95-9aa1-50a8784ccdc3/11/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video",Tennis Today Live-Paris-ATP & Chennai-WTA Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Townsville%20Fire%20Vs%20Perth%20Lynx.jpg" group-title="Cricfy", Townsville Fire Vs Perth Lynx - STREAM TV + HD
-https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Mamelodi%20Sundowns%20Vs%20Golden%20Arrows.jpg" group-title="Cricfy", Mamelodi Sundowns Vs Golden Arrows - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.55/hls/TPPP.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NPL%20Vs%20NPL.jpg" group-title="Cricfy", NPL Vs NPL - FANCODE FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/West%20Indies%20A%20Vs%20England%20Lions.jpg" group-title="Cricfy", West Indies A Vs England Lions - STREAM TV + HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NPL%20Vs%20NPL.jpg" group-title="Cricfy", NPL Vs NPL - SD SERVER
-http://162.251.160.53:8089/NPLT20/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NPL%20Vs%20NPL.jpg" group-title="Cricfy", NPL Vs NPL - FANCODE SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NPL%20Vs%20NPL.jpg" group-title="Cricfy", NPL Vs NPL - FANCODE2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NPL%20Vs%20NPL.jpg" group-title="Cricfy", NPL Vs NPL - STAR SPORTS HD
-https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/West%20Indies%20A%20Vs%20England%20Lions.jpg" group-title="Cricfy", West Indies A Vs England Lions - FANCODE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
+https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NPL%20Vs%20NPL.jpg" group-title="Cricfy", NPL Vs NPL - FANCODE (IND)
-#EXTVLCOPT:http-referrer=https://fancode.com/
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/West%20Indies%20A%20Vs%20England%20Lions.jpg" group-title="Cricfy", West Indies A Vs England Lions - Arena 1 Premium Serbi
+https://thedaddy.pk/watch.php?id=134
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Snooker%20Vs%20Snooker.jpg" group-title="Cricfy", Snooker Vs Snooker - TNT1UK SPORTS FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Hussein%20Irbid%20Vs%20Al-Shorta.jpg" group-title="Cricfy", Al-Hussein Irbid Vs Al-Shorta - HD QUALITY
+#EXTVLCOPT:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/hd-en-1-4621337.m3u8?txSecret=5e60f4cf5d12699916a2bd99a6b9b57f&txTime=6AEA1A7A
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Hussein%20Irbid%20Vs%20Al-Shorta.jpg" group-title="Cricfy", Al-Hussein Irbid Vs Al-Shorta - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel6.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Hussein%20Irbid%20Vs%20Al-Shorta.jpg" group-title="Cricfy", Al-Hussein Irbid Vs Al-Shorta - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/LOOOAA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Esteghlal%20FC%20Vs%20Al%20Shamal%20SC.jpg" group-title="Cricfy", Esteghlal FC Vs Al Shamal SC - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel2.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Esteghlal%20FC%20Vs%20Al%20Shamal%20SC.jpg" group-title="Cricfy", Esteghlal FC Vs Al Shamal SC - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/LOOOAAAA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Barcelona%20U19%20Vs%20Aston%20Villa%20U19.jpg" group-title="Cricfy", Barcelona U19 Vs Aston Villa U19 - TNT4UK SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Snooker%20Vs%20Snooker.jpg" group-title="Cricfy", Snooker Vs Snooker - TNT2UK SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Barcelona%20U19%20Vs%20Aston%20Villa%20U19.jpg" group-title="Cricfy", Barcelona U19 Vs Aston Villa U19 - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/DAAAQQQQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20U19%20Vs%20FC%20Bayern%20M%C3%BCnchen%20U19.jpg" group-title="Cricfy", Atlético Madrid U19 Vs FC Bayern München U19 - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/DAAAQQQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Canal%20SC%20Vs%20Modern%20Sport%20FC.jpg" group-title="Cricfy", Canal SC Vs Modern Sport FC - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/DAAAQQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Abu%20Qir%20Fertilizers%20SC%20Vs%20Cleopatra%20FC.jpg" group-title="Cricfy", Abu Qir Fertilizers SC Vs Cleopatra FC - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+http://193.47.62.41/hls/DAAAQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/GOLF%20EVENTO%20Vs%20GOLF%20EVENTO.jpg" group-title="Cricfy", GOLF EVENTO Vs GOLF EVENTO - Golf Channel - HD
 https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
@@ -153,4 +201,23 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 http://193.47.62.50/hls/BUUU.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Galatasaray%20Vs%20VfB%20Stuttgart.jpg" group-title="Cricfy", Galatasaray Vs VfB Stuttgart - TNT2UK SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Galatasaray%20Vs%20VfB%20Stuttgart.jpg" group-title="Cricfy", Galatasaray Vs VfB Stuttgart - CBS SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CD%20Anaitasuna%20FT%20Vs%20Deportivo%20Alav%C3%A9s.jpg" group-title="Cricfy", CD Anaitasuna FT Vs Deportivo Alavés - STREAM TV + HD
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Smouha%20Vs%20Pyramids%20FC.jpg" group-title="Cricfy", Smouha Vs Pyramids FC - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
 
