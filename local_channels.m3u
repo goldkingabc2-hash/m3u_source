@@ -762,6 +762,9 @@ https://rtmp.applelive.in/kingdomtv/kingdomtv/index.m3u8
 #EXTINF:-1 tvg-name="TIFC TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790226217_WhatsApp Image 2026-09-24 at 7.26.44 AM.jpeg" group-title="Local TV",TIFC TV
 http://198.144.149.206:8080/DINESH/TIFCTV/index.m3u8?token=YAAL
 
+#EXTINF:-1 tvg-name="krishna tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1793969636_01_00105.png" group-title="Local TV",krishna tv
+https://app.ashokadigital.net/app/4f231677/index.m3u8
+
 #EXTINF:-1 tvg-name="phoenix tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753871451_Untitled 2- Copy copy.png" group-title="Local TV",phoenix tv
 https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
 
