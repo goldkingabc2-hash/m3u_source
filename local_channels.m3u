@@ -739,7 +739,7 @@ https://ipcloud.live/riotv/riotvhd/index.m3u8
 https://thoma.stream.onecloudlive.in/thoma/thoma/index.m3u8
 
 #EXTINF:-1 tvg-name="idhayam tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437660_c693de12-bd16-4691-b98b-e7055e31d6ac-Photoroom.png" group-title="Local TV",idhayam tv
-https://tvstream.cloudlive24.com/live/8527530ab689bf8a710430c189aa2906.m3u8
+https://tvstream.cloudlive24.com/live/c882af65-7145-4e9b-9fc0-bffede00e640.m3u8
 
 #EXTINF:-1 tvg-name="VDS TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787038089_WhatsApp Image 2026-08-17 at 7.49.21 PM.jpeg" group-title="Local TV",VDS TV
 http://117.247.192.123:8080/vds/vds.m3u8
@@ -772,7 +772,7 @@ https://app.ashokadigital.net/app/4f231677/index.m3u8
 https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
 
 #EXTINF:-1 tvg-name="tamil oli tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1794016445_tamil oli tv.jpeg" group-title="Local TV",tamil oli tv
-http://view.apserver.in/tmp_hls7/tamilolitv/index.m3u8
+http://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
 
 #EXTINF:-1 tvg-name="POTHIGAI FM" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790769821_WhatsApp Image 2026-09-30 at 4.58.03 PM.jpeg" group-title="Local TV",POTHIGAI FM
 https://pothigaifm-prabak78.radioca.st/stream
