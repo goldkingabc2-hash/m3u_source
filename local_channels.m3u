@@ -568,7 +568,7 @@ http://vtamizhtv.stream.nellaiiptv.com:80/vtv/vtv/index.m3u8
 http://vmusictv.stream.nellaiiptv.com:80/live/vmusictv/index.m3u8
 
 #EXTINF:-1 tvg-name="smaxtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789969924_PNG.png" group-title="Local TV",smaxtv
-https://applelive.in/smaxtv/smaxtv/index.m3u8
+https:/index.m3u8
 
 #EXTINF:-1 tvg-name="LION TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790778174_d6f0dc8c-f4bc-4827-a2ee-ac557900c312-Photoroom.png" group-title="Local TV",LION TV
 https://stream.iplive.xyz/smmedia/liontv/index.m3u8
@@ -669,6 +669,9 @@ http://srnet.bmlive.net:1935/srmusic/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="ISAI SARAL" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437968_1773995237_WhatsApp Image 2026-03-20 at 1.47.36 PM-Photoroom.png" group-title="Local TV",ISAI SARAL
 http://srnet.bmlive.net:1935/isaisaral/mystream/playlist.m3u8
 
+#EXTINF:-1 tvg-name="krishna ttv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1794017349_01_00105 (1).png" group-title="Local TV",krishna ttv
+tmp://krishnatv.stream.onecloudlive.in:1935/krishnatv/krishnatvhd
+
 #EXTINF:-1 tvg-name="himalaya tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1780921420_himalaya tv hosur.png" group-title="Local TV",himalaya tv
 https://app.ashokadigital.net/app/eb990565/index.m3u8
 
@@ -767,6 +770,9 @@ https://app.ashokadigital.net/app/4f231677/index.m3u8
 
 #EXTINF:-1 tvg-name="phoenix tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753871451_Untitled 2- Copy copy.png" group-title="Local TV",phoenix tv
 https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
+
+#EXTINF:-1 tvg-name="tamil oli tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1794016445_tamil oli tv.jpeg" group-title="Local TV",tamil oli tv
+http://view.apserver.in/tmp_hls7/tamilolitv/index.m3u8
 
 #EXTINF:-1 tvg-name="POTHIGAI FM" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790769821_WhatsApp Image 2026-09-30 at 4.58.03 PM.jpeg" group-title="Local TV",POTHIGAI FM
 https://pothigaifm-prabak78.radioca.st/stream
