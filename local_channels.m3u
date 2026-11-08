@@ -951,6 +951,9 @@ http://happy.dets.fun:8080/hls/.m3u8
 #EXTINF:-1 tvg-name="a1 tv media" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1793026513_a408ee30-c8a3-48a4-a46d-f5c0babb4b49-Photoroom.png" group-title="Local TV",a1 tv media
 https://vvsolutions-server14.in/a1tvmedia_26/video.m3u8
 
+#EXTINF:-1 tvg-name="mee tv news" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1794107090_WhatsApp Image 2026-11-06 at 6.53.36 PM.jpeg" group-title="Local TV",mee tv news
+https://sharsolution.in/hls/meetv/meetv.m3u8
+
 #EXTINF:-1 tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national tv logo png.png" group-title="Local TV",Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
 
