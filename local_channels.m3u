@@ -571,7 +571,7 @@ http://vmusictv.stream.nellaiiptv.com:80/live/vmusictv/index.m3u8
 https:/index.m3u8
 
 #EXTINF:-1 tvg-name="LION TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790778174_d6f0dc8c-f4bc-4827-a2ee-ac557900c312-Photoroom.png" group-title="Local TV",LION TV
-https://stream.iplive.xyz/smmedia/liontv/index.m3u8
+https://rtmphub.in/hls/liontv/live/RJsztYyta6xSghsYCAC2eVdauitieaXY/index.m3u8
 
 #EXTINF:-1 tvg-name="Kavin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736878149_KAVIN TV.png" group-title="Local TV",Kavin tv
 http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
@@ -1034,6 +1034,9 @@ https://subashhd.stream.onecloudlive.in/subashhd/subashtvhd/index.m3u8
 
 #EXTINF:-1 tvg-name="d bhakthi tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171965_Dbhakthi.png" group-title="Local TV",d bhakthi tv
 https://stream.d6-pro.com/dbhakhi/live/video.m3u8
+
+#EXTINF:-1 tvg-name="LION TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790777390_d6f0dc8c-f4bc-4827-a2ee-ac557900c312-Photoroom.png" group-title="Local TV",LION TV
+https://stream.iplive.xyz/smmedia/liontv/index.m3u8
 
 #EXTINF:-1 tvg-name="Hoysala" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791948218_1790782799_a private channel copy.png" group-title="Local TV",Hoysala
 https://mumbai-edge.smartplaytv.in/Hoysala/index.m3u8
