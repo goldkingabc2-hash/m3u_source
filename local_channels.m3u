@@ -469,7 +469,7 @@ https://app.ashokadigital.net/app/74f6070c/index.m3u8
 https://air.rojatv.cloud/hanshitha/tv/index.m3u8
 
 #EXTINF:-1 tvg-name="KM TELEVISION" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777711975_daeace30-6395-4e87-b81b-c1eb3f5b1735-Photoroom.png" group-title="Local TV",KM TELEVISION
-https://stream.ashokadigital.net/KMTELEVISION/kmtelevision/index.m3u8
+https://live-stream.in/kmtelevision/kmtelevision/index.m3u8
 
 #EXTINF:-1 tvg-name="M TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777712105_MTV 1.png" group-title="Local TV",M TV
 https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8
