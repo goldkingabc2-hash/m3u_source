@@ -561,8 +561,8 @@ https://rtmp.bmlive.net/bms/eagletv/index.m3u8
 #EXTINF:-1 tvg-name="orange Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772504613_81. ORANGE TV.png" group-title="Local TV",orange Tv
 https://notvstream.in/orangetv/orangetv/index.m3u8
 
-#EXTINF:-1 tvg-name="V TAMIL" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789645835_file_00709 (1).png" group-title="Local TV",V TAMIL
-http://vtamizhtv.stream.nellaiiptv.com:80/vtv/vtv/index.m3u8
+#EXTINF:-1 tvg-name="bass tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1794547561_..jpeg" group-title="Local TV",bass tv
+http://stream.dureshtech.com:80/vtv/vtv/index.m3u8
 
 #EXTINF:-1 tvg-name="V  MUSIC" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789646188_Comp 1_00709.png" group-title="Local TV",V  MUSIC
 http://vmusictv.stream.nellaiiptv.com:80/live/vmusictv/index.m3u8
